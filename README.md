@@ -8,13 +8,13 @@ além das imagens com texto (tela inicial, tela de itens, barra de status).
 No app, abra o menu de add-ons → **Install by URL** e cole:
 
 ```
-https://github.com/alexsanderrolondres-ui/dink-ptbr/raw/main/dink-ptbr-acentos.dmod
+https://raw.githubusercontent.com/alexsanderrolondres-ui/dink-ptbr/main/dink-ptbr-acentos.dmod
 ```
 
 Se aparecerem quadradinhos no lugar de á, ã ou ç, use a versão sem acentos:
 
 ```
-https://github.com/alexsanderrolondres-ui/dink-ptbr/raw/main/dink-ptbr-sem-acentos.dmod
+https://raw.githubusercontent.com/alexsanderrolondres-ui/dink-ptbr/main/dink-ptbr-sem-acentos.dmod
 ```
 
 ## Créditos
