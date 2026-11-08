@@ -1,0 +1,28 @@
+DINK SMALLWOOD EM PORTUGUÊS (PT-BR) - D-Mod
+============================================
+
+O jogo original completo com as 2.221 falas, escolhas e menus
+traduzidos, mais as imagens com texto (tela inicial, tela de itens,
+barra de status, "Aguarde...").
+
+ARQUIVOS
+  dink-ptbr-acentos.dmod      versão com acentos (use esta primeiro)
+  dink-ptbr-sem-acentos.dmod  mesma tradução sem acentos (para o caso
+                              de o app mostrar quadradinhos ou símbolos
+                              no lugar de á, ã, ç...)
+  *.zip                       mesmo conteúdo, para apps que pedem .zip
+
+COMO INSTALAR NO DINK SMALLWOOD HD (Android)
+  1. Copie o arquivo .dmod para o celular (Downloads, por exemplo).
+  2. No app, use a opção de adicionar/instalar D-Mod e escolha o arquivo.
+  3. Na lista de D-Mods, inicie "Dink Smallwood em Português (PT-BR)".
+
+O que continua em inglês
+  - Os menus próprios do app HD (fora do jogo), que fazem parte do app.
+  - O texto dos espaços de save ("Slot 1 - ..."), que vem do motor.
+
+Créditos
+  Jogo original: Copyright 1998-2006 Robinson Technologies (rtsoft.com).
+  Scripts e gráficos liberados pela RTsoft em 2008 sob licença zlib
+  (pacote freedink-data). Esta é uma versão modificada: tradução de fã.
+  Fontes dos menus: Uncial Antiqua e MedievalSharp (SIL Open Font License).
